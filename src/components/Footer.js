@@ -33,7 +33,7 @@ const Footer = () => {
                 <Instagram size={20} />
               </a>
               <a 
-                href="https://www.instagram.com/_official_sb_2210/" 
+                href="https://my-portfolio-xi-blush-49.vercel.app/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="social-link portfolio"
